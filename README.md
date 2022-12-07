@@ -12,3 +12,5 @@ OS: Klipper<br>
 Frontend: Fluidd<br>
 MCU: Creality 4.2.2 (4.2.7 in a box)<br>
 Klipper Host Device: Motorolla Moto X Pure (2015)<br>
+<br>
+Benchy's completed so far: 1 AmazonBasics PLA, 1 SainSmart TPU, 1 Polylite PC
