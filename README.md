@@ -1,5 +1,5 @@
 # PrinterConfigs
-Here's the current parts on my Ender 3 V2. Bought 2nd hand at an incredible deal with most of these upgrades.
+Here's the current parts on my Ender 3 V2. Bought 2nd hand at an incredible deal with most of these upgrades. Pretty bad with keeping things up to date. But that might change if I learn to auto update from GIT instead.
 
 Hotend: Phaetus BMS Dragonfly hotend <br>
 Mount: Microswiss Direct Drive Plate <br>
